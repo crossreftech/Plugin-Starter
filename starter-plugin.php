@@ -9,7 +9,7 @@ Author URI: http://URI_Of_The_Plugin_Author
 License: A "Slug" license name e.g. GPL2
 */
 
-// Add Plugin Code Here...
+// Remove the code below and add your own...
 
 function my_plugin_function() {
 	echo 'Hello World!';
